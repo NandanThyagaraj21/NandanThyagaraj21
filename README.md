@@ -31,13 +31,12 @@ Python test-automation engineer from Bengaluru. I spent a year at Cisco automati
 
 | Project | Status |
 |---|---|
-| [Scalable URL Shortener](https://github.com/NandanThyagaraj21/scalable-url-shortener) | 🚧 In progress |
-| [AI-Powered Resume Parser](https://github.com/NandanThyagaraj21/ai-resume-parser) | 🚧 In progress |
-| [AI-Driven Chatbot](https://github.com/NandanThyagaraj21/ai-driven-chatbot) | 🚧 In progress |
-| [Microservices E-Commerce Backend](https://github.com/NandanThyagaraj21/microservices-ecommerce-backend) | 🚧 In progress |
-| [Task Manager (Trello clone)](https://github.com/NandanThyagaraj21/scalable-task-manager) | 🚧 In progress |
+| Leaf Identification and Classification of Medicinal Plants (final-year project, 2021–22, graded S) | 📦 Uploading original code |
+| Scalable URL Shortener | 🚧 In progress — code not public yet |
+| AI-Powered Resume Parser | 🚧 In progress — code not public yet |
+| AI-Driven Chatbot | 🚧 In progress — code not public yet |
 
-Coming next: my final-year project, *Leaf Identification and Classification of Medicinal Plants* (2021–22).
+Each project gets a public repo link here once it has working code.
 
 ## Contact
 
