@@ -29,14 +29,13 @@ Python test-automation engineer from Bengaluru. I spent a year at Cisco automati
 
 ## Currently building
 
-| Project | Status |
-|---|---|
-| Leaf Identification and Classification of Medicinal Plants (final-year project, 2021–22, graded S) | 📦 Uploading original code |
-| Scalable URL Shortener | 🚧 In progress — code not public yet |
-| AI-Powered Resume Parser | 🚧 In progress — code not public yet |
-| AI-Driven Chatbot | 🚧 In progress — code not public yet |
+- 🚧 Scalable URL Shortener: in progress
+- 🚧 AI-Powered Resume Parser: in progress
+- 🚧 AI-Driven Chatbot: in progress
+- 🚧 Microservices E-Commerce Backend: in progress
+- 🚧 Task Manager (Trello clone): in progress
 
-Each project gets a public repo link here once it has working code.
+Repos go public once they work. Coming next: my final-year project, *Leaf Identification and Classification of Medicinal Plants* (2021–22).
 
 ## Contact
 
