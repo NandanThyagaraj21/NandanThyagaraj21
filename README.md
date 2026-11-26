@@ -1,46 +1,45 @@
-# Hi, I'm Nandan Thyagaraj! 🚀
+# Hi, I'm Nandan Thyagaraj 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nandanthyagaraj/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/NandanThyagaraj21)
+Python test-automation engineer from Bengaluru. I spent a year at Cisco automating L2/L3 network protocol testing, and since Oct 2024 I've been upskilling in Python backend development and AI by building the projects below.
 
-## 🚀 About Me
-Hi there! I'm a **Software Engineer** with expertise in **Backend Development, Cloud Computing, AI-Powered Systems, and DevOps Automation**. Passionate about **solving complex engineering problems**, optimizing system efficiency, and building **scalable, production-ready applications**.
+**Looking for:** SDET / Automation, Python Developer, Backend and AI Engineer roles. Bengaluru or remote. Immediate joiner.
 
-## 🔥 Tech Stack
+## Experience
 
-### 🚀 **Backend & Cloud:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+**India Technical Apprentice, Cisco Systems India** (IoT, Catalyst Switching Business Unit) · Sep 2023 – Sep 2024
+- Created and ran L2/L3 protocol test cases (STP, MSTP, OSPF, BGP, multicast) using pyATS and the TRex traffic generator with Ixia.
+- Built and improved APIs and parsers for Cisco's Genie library; cut script execution time by 30%, raised scalability and performance by 20%, and cut code-related issues by 25%.
+- Cisco code is confidential, so none of it is on this profile.
 
-### 💡 **AI & Automation:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-3776AB?style=flat-square&logo=ai)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+## Skills
 
-## 📌 Pinned Repositories
+**Used professionally (Cisco)**
+- Python, pyATS, Genie, TRex, Ixia
+- L2/L3 protocol testing: STP, PVST+, RPVST+, MSTP, OSPF, OSPFv3, EIGRP, BGP, PBR, IGMP, MLD, PIM, static routing, unicast/multicast
+- Code reviews and integration
 
-🔹 **[Scalable URL Shortener](https://github.com/NandanThyagaraj21/scalable-url-shortener)** - High-performance URL shortener with caching & AWS deployment.
+**Trained in**
+- Automation Testing (Simplilearn, 2024): Selenium (Page Object Model), TestNG, JUnit 5, Cucumber, Cypress, REST Assured, Postman, JMeter, TDD, Jenkins, Docker, AWS EC2, Git/GitHub, Jira, Agile
+- Java Full Stack (Pentagon Space, 2022–23): Core Java, J2EE (JDBC, Servlets, JSP), Spring Boot, Spring MVC, Spring REST, Spring Data JPA, Spring Security, Microservices, Kafka, Redis, React, SQL, Maven, Swagger
+- CCNA 2.0 training course (Cisco-authorized), 2023
 
-🔹 **[AI-Powered Resume Parser](https://github.com/NandanThyagaraj21/ai-resume-parser)** - NLP-based resume parser for automated screening.
+**Used in college projects**
+- Python, TensorFlow/TFLearn, CNN, OpenCV, NumPy, Tkinter (final-year project, graded S)
+- SQL/MySQL, PHP, HTML, CSS, JavaScript
 
-🔹 **[Scalable Task Manager (Trello Clone)](https://github.com/NandanThyagaraj21/scalable-task-manager)** - Kanban-style task management system.
+## Currently building
 
-🔹 **[Microservices-Based E-Commerce Backend](https://github.com/NandanThyagaraj21/microservices-ecommerce-backend)** - Enterprise-grade e-commerce backend with event-driven architecture.
+| Project | Status |
+|---|---|
+| [Scalable URL Shortener](https://github.com/NandanThyagaraj21/scalable-url-shortener) | 🚧 In progress |
+| [AI-Powered Resume Parser](https://github.com/NandanThyagaraj21/ai-resume-parser) | 🚧 In progress |
+| [AI-Driven Chatbot](https://github.com/NandanThyagaraj21/ai-driven-chatbot) | 🚧 In progress |
+| [Microservices E-Commerce Backend](https://github.com/NandanThyagaraj21/microservices-ecommerce-backend) | 🚧 In progress |
+| [Task Manager (Trello clone)](https://github.com/NandanThyagaraj21/scalable-task-manager) | 🚧 In progress |
 
-🔹 **[AI-Driven Chatbot](https://github.com/NandanThyagaraj21/ai-driven-chatbot)** - AI-powered chatbot for automation and support.
+Coming next: my final-year project, *Leaf Identification and Classification of Medicinal Plants* (2021–22).
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandanThyagaraj21&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandanThyagaraj21&show_icons=true&theme=tokyonight)
+## Contact
 
-## 🌟 Connect With Me
-💬 **Let's build something amazing!** Feel free to connect with me on **LinkedIn** or check out my latest projects on **GitHub**!
-
----
-🚀 **Keep Innovating!** 🚀
+- LinkedIn: [linkedin.com/in/nandanthyagaraj](https://www.linkedin.com/in/nandanthyagaraj)
+- Email: nandanthyagaraj21@gmail.com
